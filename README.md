@@ -1,6 +1,6 @@
 # Nova Eats - Restaurant Website  
 
-🌐 **Live Site:** ([https://9940-pg.github.io/Nova-EATS/])  
+🌐 **Live Site:** (https://9940-pg.github.io/Nova-EATS/)  
 
 **Nova Eats** is a modern, responsive restaurant website designed using **HTML**, **Tailwind CSS**, and **JavaScript**. It features a dark mode toggle, a parallax hero section, interactive menu cards, and smooth animations to deliver an engaging user experience.  
 
